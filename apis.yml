@@ -1,8 +1,8 @@
 aid: liveperson
 name: LivePerson
 description: >-
-  Whether you are a startup or a large enterprise, we look forward to building
-  amazing solutions with you! 
+  Whether you are a startup or a large enterprise, we look forward to building amazing
+  solutions with you!
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: liveperson:liveperson
     name: LivePerson
     description: >-
-      Whether you are a startup or a large enterprise, we look forward to
-      building amazing solutions with you! 
+      Whether you are a startup or a large enterprise, we look forward to building
+      amazing solutions with you!
     humanURL: ' https://developers.liveperson.com/'
     tags:
       - API
