@@ -7,8 +7,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-01-14'
 modified: '2026-03-16'
 url: >-
@@ -21,8 +20,7 @@ apis:
       Whether you are a startup or a large enterprise, we look forward to building
       amazing solutions with you!
     humanURL: ' https://developers.liveperson.com/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://developers.liveperson.com/'
