@@ -164,6 +164,15 @@ common:
     url: https://www.liveperson.com/resources/blog/
   - type: GitHubOrganization
     url: https://github.com/LivePersonInc
+  - type: Integrations
+    url: https://www.liveperson.com/partners/
+integrations:
+  - name: LivePerson Inc.
+  - name: AI Chatbot Toolset
+  - name: Webinar
+  - name: Report
+  - name: LivePerson partnership illustration
+  - name: IBM logo small
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
