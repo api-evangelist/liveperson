@@ -2,17 +2,13 @@
   "repo": "liveperson",
   "feeds": [
     {
-      "source": "https://www.liveperson.com/resources/blog/",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://status.liveperson.com/",
-      "feed_url": "https://status.liveperson.com/",
-      "title": "",
+      "source": "https://www.liveperson.com/blog/",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
+  "fetched": "2026-06-27T12:52:09Z",
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "agent_pulled": "2026-06-27"
 }
