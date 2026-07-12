@@ -148,6 +148,10 @@ apis:
       - type: Documentation
         url: https://developers.liveperson.com/liveperson-functions-overview.html
 common:
+  - type: TrustCenter
+    url: security/liveperson-trust-center.yml
+  - type: DomainSecurity
+    url: security/liveperson-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/liveperson
   - type: Website
