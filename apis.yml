@@ -89,6 +89,10 @@ apis:
     humanURL: https://developers.liveperson.com/knowledgeai-api-overview.html
     tags:
       - Knowledge Base
+      - Artificial Intelligence
+      - Search
+    tags_raw:
+      - Knowledge Base
       - AI
       - Search
     properties:
@@ -140,6 +144,9 @@ apis:
       access to the LivePerson Conversational Cloud APIs.
     humanURL: https://developers.liveperson.com/login-service-api-overview.html
     tags:
+      - Authentication
+      - Security
+    tags_raw:
       - Authentication
       - Security
       - OAuth
