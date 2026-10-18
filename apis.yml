@@ -74,6 +74,10 @@ apis:
     humanURL: https://developers.liveperson.com/intent-manager-overview.html
     tags:
       - Conversational AI
+      - Natural Language Understanding
+      - Intents
+    tags_raw:
+      - Conversational AI
       - NLU
       - Intents
     properties:
