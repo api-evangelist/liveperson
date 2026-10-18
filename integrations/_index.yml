@@ -33,5 +33,5 @@
     - silver
     - unknown
     builder: 'community (Meltano Hub variant maintainers: dbt-labs, singer-io, stvhanna)'
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
