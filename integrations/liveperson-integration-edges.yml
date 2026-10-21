@@ -86,6 +86,23 @@ edges:
   detected: '2026-10-21'
   detected_by: mirror-platform-listings.py
   category: eCommerce
+- partner_name: Google Play Developer (Google Play SDK Index)
+  partner: google-play
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: Google Play SDK Index
+  evidence: https://play.google.com/sdks/details/com-liveperson-android-lp_messaging_sdk
+  mirror_of: google-play/integrations/google-play-integration-edges.yml
+  apps:
+  - LivePerson Messaging SDK
+  listing_count: 1
+  detected: '2026-10-21'
+  detected_by: mirror-platform-listings.py
+  category: mobile SDK (user-support)
 method: searched
 checked:
 - https://github.com/meltano/hub
@@ -96,5 +113,6 @@ checked:
 - https://developer.salesforce.com/docs/atlas.en-us.packagingGuide.meta/packagingGuide/security_review_overview.htm
 - https://slack.com/marketplace
 - salesforce/integrations/salesforce-integration-edges.yml
+- google-play/integrations/google-play-integration-edges.yml
 source:
 - https://github.com/meltano/hub
