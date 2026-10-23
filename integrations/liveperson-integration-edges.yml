@@ -103,6 +103,23 @@ edges:
   detected: '2026-10-21'
   detected_by: mirror-platform-listings.py
   category: mobile SDK (user-support)
+- partner_name: Drupal (own)
+  partner: drupal
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.drupal.org/project/live_person
+  mirror_of: drupal/integrations/drupal-integration-edges.yml
+  apps:
+  - LivePerson LiveChat + Messaging Integration
+  listing_count: 1
+  detected: '2026-10-22'
+  detected_by: mirror-platform-listings.py
+  category: Drupal contributed module
 method: searched
 checked:
 - https://github.com/meltano/hub
@@ -114,5 +131,6 @@ checked:
 - https://slack.com/marketplace
 - salesforce/integrations/salesforce-integration-edges.yml
 - google-play/integrations/google-play-integration-edges.yml
+- drupal/integrations/drupal-integration-edges.yml
 source:
 - https://github.com/meltano/hub
