@@ -1,4 +1,4 @@
-# LivePerson (liveperson)
+# LivePerson
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,159 +66,113 @@
 
 LivePerson is a leading provider of conversational AI and digital customer engagement technology. Their platform enables enterprises to design, deploy, and manage AI-powered messaging, voice, and agent-assisted conversations across web, mobile, and social channels, with a comprehensive suite of REST APIs covering conversation orchestration, contact center management, reporting, messaging, and security.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/liveperson/refs/heads/main/apis.yml)
+**Areas:** Conversational AI · Customer Engagement · Messaging · Contact Center · Bots · Chat
 
-## Scope
+## LivePerson on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for LivePerson is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/liveperson/](https://apis.io/providers/liveperson/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (9)
 
- - Conversational AI, Customer Engagement, Messaging, Contact Center, Bots, Chat
+- [LivePerson Conversational Cloud API](https://apis.io/apis/liveperson/conversational-cloud-api/) — Comprehensive set of REST APIs for managing conversations across messaging channels, including agent operations, consumer messaging, conversation history,…
+- [LivePerson Intent Manager API](https://apis.io/apis/liveperson/intent-manager-api/) — Programmatic access to natural language understanding, intent recognition, and conversation classification capabilities of the LivePerson platform.
+- [LivePerson Conversation Builder API](https://apis.io/apis/liveperson/conversation-builder-api/) — APIs for designing, deploying, and managing chatbots and dialog flows built with LivePerson Conversation Builder.
+- [LivePerson KnowledgeAI API](https://apis.io/apis/liveperson/knowledgeai-api/) — APIs for managing knowledge bases, articles, and AI-driven knowledge retrieval used by bots and agents in LivePerson conversations.
+- [LivePerson Messaging Operations API](https://apis.io/apis/liveperson/messaging-operations-api/) — Real-time and historical operational metrics for messaging conversations, including queues, agent activity, and SLA performance.
+- [LivePerson Data Access API](https://apis.io/apis/liveperson/data-access-api/) — Bulk historical conversation analytics and data export API for offline analysis of LivePerson messaging activity.
+- [LivePerson Engagement History API](https://apis.io/apis/liveperson/engagement-history-api/) — API for retrieving historical chat and messaging engagement records, including transcripts, attributes, and survey results.
+- [LivePerson Login Service API](https://apis.io/apis/liveperson/login-service-api/) — Authentication API for obtaining bearer tokens for application and user access to the LivePerson Conversational Cloud APIs.
+- [LivePerson Functions](https://apis.io/apis/liveperson/functions/) — Serverless platform for building, deploying, and invoking custom functions that extend LivePerson conversational workflows.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-14
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### LivePerson Conversational Cloud API
-Comprehensive set of REST APIs for managing conversations across messaging channels, including agent operations, consumer messaging, conversation history, and engagement events.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://developers.liveperson.com/getting-started.html](https://developers.liveperson.com/getting-started.html)
+- [Liveperson Domain Security](https://apis.io/security/liveperson/liveperson-domain-security/)
+- [Liveperson Trust Center](https://apis.io/security/liveperson/liveperson-trust-center/)
 
-**Base URL:** https://api.liveperson.net
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Conversational AI, Messaging, Contact Center
+- [Liveperson Plans Pricing](https://apis.io/plans/liveperson/liveperson-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://developers.liveperson.com/getting-started.html)
-- [GettingStarted](https://developers.liveperson.com/getting-started-with-liveperson-apis.html)
-- [Authentication](https://developers.liveperson.com/login-service-api-overview.html)
+Published request limits.
 
-### LivePerson Intent Manager API
-Programmatic access to natural language understanding, intent recognition, and conversation classification capabilities of the LivePerson platform.
+- [Liveperson Rate Limits](https://apis.io/rate-limits/liveperson/liveperson-rate-limits/)
 
-**Human URL:** [https://developers.liveperson.com/intent-manager-overview.html](https://developers.liveperson.com/intent-manager-overview.html)
+#### FinOps (1)
 
-#### Tags:
+What the API costs to run, by operation.
 
- - Conversational AI, NLU, Intents
+- [Liveperson Finops](https://apis.io/finops/liveperson/liveperson-finops/)
 
-#### Properties
+## Where to find this API
 
-- [Documentation](https://developers.liveperson.com/intent-manager-overview.html)
-
-### LivePerson Conversation Builder API
-APIs for designing, deploying, and managing chatbots and dialog flows built with LivePerson Conversation Builder.
-
-**Human URL:** [https://developers.liveperson.com/conversation-builder-overview.html](https://developers.liveperson.com/conversation-builder-overview.html)
-
-#### Tags:
-
- - Bots, Conversational AI, Dialog
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/conversation-builder-overview.html)
-
-### LivePerson KnowledgeAI API
-APIs for managing knowledge bases, articles, and AI-driven knowledge retrieval used by bots and agents in LivePerson conversations.
-
-**Human URL:** [https://developers.liveperson.com/knowledgeai-api-overview.html](https://developers.liveperson.com/knowledgeai-api-overview.html)
-
-#### Tags:
-
- - Knowledge Base, AI, Search
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/knowledgeai-api-overview.html)
-
-### LivePerson Messaging Operations API
-Real-time and historical operational metrics for messaging conversations, including queues, agent activity, and SLA performance.
-
-**Human URL:** [https://developers.liveperson.com/messaging-operations-api-overview.html](https://developers.liveperson.com/messaging-operations-api-overview.html)
-
-#### Tags:
-
- - Analytics, Reporting, Messaging
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/messaging-operations-api-overview.html)
-
-### LivePerson Data Access API
-Bulk historical conversation analytics and data export API for offline analysis of LivePerson messaging activity.
-
-**Human URL:** [https://developers.liveperson.com/data-access-api-overview.html](https://developers.liveperson.com/data-access-api-overview.html)
-
-#### Tags:
-
- - Analytics, Data Export, Reporting
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/data-access-api-overview.html)
-
-### LivePerson Engagement History API
-API for retrieving historical chat and messaging engagement records, including transcripts, attributes, and survey results.
-
-**Human URL:** [https://developers.liveperson.com/engagement-history-api-overview.html](https://developers.liveperson.com/engagement-history-api-overview.html)
-
-#### Tags:
-
- - History, Engagement, Analytics
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/engagement-history-api-overview.html)
-
-### LivePerson Login Service API
-Authentication API for obtaining bearer tokens for application and user access to the LivePerson Conversational Cloud APIs.
-
-**Human URL:** [https://developers.liveperson.com/login-service-api-overview.html](https://developers.liveperson.com/login-service-api-overview.html)
-
-#### Tags:
-
- - Authentication, Security, OAuth
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/login-service-api-overview.html)
-
-### LivePerson Functions
-Serverless platform for building, deploying, and invoking custom functions that extend LivePerson conversational workflows.
-
-**Human URL:** [https://developers.liveperson.com/liveperson-functions-overview.html](https://developers.liveperson.com/liveperson-functions-overview.html)
-
-#### Tags:
-
- - Serverless, Functions, Extensibility
-
-#### Properties
-
-- [Documentation](https://developers.liveperson.com/liveperson-functions-overview.html)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.liveperson.com)
-- [Portal](https://developers.liveperson.com/)
 - [Documentation](https://developers.liveperson.com/getting-started.html)
-- [GettingStarted](https://developers.liveperson.com/getting-started-with-liveperson-apis.html)
-- [Authentication](https://developers.liveperson.com/login-service-api-overview.html)
-- [StatusPage](https://status.liveperson.com/)
+- [Getting started](https://developers.liveperson.com/getting-started-with-liveperson-apis.html)
 - [Blog](https://www.liveperson.com/resources/blog/)
-- [GitHubOrganization](https://github.com/LivePersonInc)
+- [GitHub](https://github.com/LivePersonInc)
+- [Status](https://status.liveperson.com/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 17.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 15.8 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/liveperson/](https://apis.io/providers/liveperson/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LivePerson: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/liveperson/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
